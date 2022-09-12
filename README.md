@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 <!---
-halveinn/halveinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+atlas/atlas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profiles
 You can click the Preview link to take a look at your changes.
 --->
 instgram adresim -atlas.well
